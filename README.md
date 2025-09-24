@@ -45,7 +45,7 @@ Movido por desafios e paixão por tecnologia, combinando **capacidade técnica, 
 ---
 
 ## 🌎 Contato
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/thiagopedroso)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thiagopedroso)  
 - E-mail: dev@hewoai.com 
 
 ---
